@@ -1,6 +1,10 @@
-# Practica-1-Pisos-Barcelona
+# Pràctica 1. Pisos en venta a Barcelona
 
-Components del Equip
+## Descripció
+En aquesta pràctica s'ha utilitzat el llenguatge de programació Python per tal d'extreure dades de la pàgina web **Habitaclia** i així generar un dataset amb els pisos en venta a la ciutat de Barcelona en un dia en concret.
 
-Xavier Sellart Aldomà
-Mireia Gutiérrez Lozano
+## Components del Equip
+
+* Xavier Sellart Aldomà
+
+* Mireia Gutiérrez Lozano
