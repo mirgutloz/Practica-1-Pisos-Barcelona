@@ -8,3 +8,7 @@ En aquesta pràctica s'ha utilitzat el llenguatge de programació Python per tal
 * Xavier Sellart Aldomà
 
 * Mireia Gutiérrez Lozano
+
+## Descripció fitxers
+
+* 
