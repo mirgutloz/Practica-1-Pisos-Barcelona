@@ -11,7 +11,7 @@ En aquesta pràctica s'ha utilitzat el llenguatge de programació Python per tal
 
 ## Descripció fitxers
 
-* Pisos_Barcelona.py: realitza el procés de scraping en la web d'Habitaclia i la extracció de les característiques dels pisos a un fitxer csv.
+* **src/Pisos_Barcelona.py**: realitza el procés de scraping en la web d'Habitaclia i la extracció de les característiques dels pisos a un fitxer csv.
 
 ## DOI Zenodo dataset
 
